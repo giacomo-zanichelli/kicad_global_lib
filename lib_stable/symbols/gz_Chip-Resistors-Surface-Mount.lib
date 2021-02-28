@@ -1,0 +1,254 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# RES-EIA01005
+#
+DEF RES-EIA01005 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA01005" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC40X20X15L10" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA01005" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA0201
+#
+DEF RES-EIA0201 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA0201" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC60X30X26L15L" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA0201" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA0402
+#
+DEF RES-EIA0402 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA0402" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC100X50X40L25NN" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA0402" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA0603
+#
+DEF RES-EIA0603 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA0603" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC160X85X55L30N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA0603" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA0805
+#
+DEF RES-EIA0805 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA0805" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC200X125X70L40N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA0805" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA1206
+#
+DEF RES-EIA1206 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA1206" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC312X155X70L50N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA1206" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA1210
+#
+DEF RES-EIA1210 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA1210" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC312X250X70L50N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA1210" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA1812
+#
+DEF RES-EIA1812 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA1812" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC450X320X70L50N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA1812" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA2010
+#
+DEF RES-EIA2010 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA2010" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC500X250X70L60N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA2010" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RES-EIA2512
+#
+DEF RES-EIA2512 R 0 40 N N 1 F N
+F0 "R" -300 450 50 H V L CNN
+F1 "RES-EIA2512" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC640X320X70L60N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 800 800 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F6 "MPN" 800 600 50 H I L CNN "MPN"
+F7 "Resistors" -3300 4750 50 H I L CNN "Category"
+F8 "Chip Resistor - Surface Mount" -3300 4850 50 H I L CNN "Family"
+F9 "<resistance>" -300 350 50 H V L CNN "Resistance"
+F10 "± <tolerance>" 300 350 50 H V L CNN "Tolerance"
+F11 "<power>" -300 250 50 H V L CNN "Power"
+F12 "<voltage>" 100 250 50 H V L CNN "Voltage"
+F13 "EIA2512" -300 150 50 H V L CNN "Package"
+DRAW
+P 3 0 1 0 100 0 125 -50 150 0 N
+P 7 0 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

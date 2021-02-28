@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Espressif_ESP32-D0WDQ6-V3
+D IC RF TxRx + MCU Bluetooth, WiFi 802.11b/g/n, Bluetooth 4.2 2.412GHz ~ 2.484GHz 48-VFQFN Exposed Pad
+F ${DATASHEETS}/esp32_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

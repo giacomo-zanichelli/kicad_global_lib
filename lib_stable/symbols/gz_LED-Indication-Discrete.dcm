@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LiteOn-LTST-C155KGJRKT
+D Green, Red 571nm Green, 631nm Red LED Indication - Discrete 2V Green, 2V Red 1210 (3225 Metric)
+K 160-1409-1-ND LTST-C155KGJRKT
+F http://optoelectronics.liteon.com/upload/download/DS22-2001-038/LTST-C155KGJRKT.pdf
+$ENDCMP
+#
+#End Doc Library

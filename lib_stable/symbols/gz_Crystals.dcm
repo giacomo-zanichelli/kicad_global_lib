@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RaltronElectronics-RH100-40.000-9-F-1010-EXT-TR
+D 40MHz ±10ppm Crystal 9pF 50 Ohms 4-SMD, No Lead
+K 2151-RH100-40.000-9-F-1010-EXT-TRCT-ND RH100-40.000-9-F-1010-EXT-TR
+F https://www.raltron.com/wp-content/uploads/2019/07/RH100_SERIES-July-2019.pdf
+$ENDCMP
+#
+$CMP RaltronElectronics-RT3215-32.768-6-TR
+D 32.768kHz ±20ppm Crystal 6pF 70 kOhms 2-SMD, No Lead
+K 2151-RT3215-32.768-6-TRCT-ND RT3215-32.768-6-TR
+F http://www.raltron.com/webproducts/specs/CRYSTAL/RT3215-32.768-6-TR_RevC.pdf
+$ENDCMP
+#
+#End Doc Library

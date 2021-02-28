@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GigaDevice-GD25Q64CSIGR
+D FLASH - NOR Memory IC 64Mb (8M x 8) SPI - Quad I/O 120MHz  8-SOP
+K 1970-1026-1-ND GD25Q64CSIGR
+F ${DATASHEETS}/gd25q64c_v3.2_20191210.pdf
+$ENDCMP
+#
+#End Doc Library

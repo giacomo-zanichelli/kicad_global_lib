@@ -1,0 +1,54 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RES-EIA01005
+D Chip Resistor 01005 (0402 Metric)  Thick Film
+K EIA01005, M0402
+$ENDCMP
+#
+$CMP RES-EIA0201
+D Chip Resistor 0201 (0603 Metric)  Thick Film
+K EIA0201, M0603
+F Datasheet
+$ENDCMP
+#
+$CMP RES-EIA0402
+D Chip Resistor 0402 (1005 Metric)  Thick Film
+K EIA0402, M1005
+$ENDCMP
+#
+$CMP RES-EIA0603
+D Chip Resistor 0603 (1608 Metric)  Thick Film
+K EIA0603, M1608
+$ENDCMP
+#
+$CMP RES-EIA0805
+D Chip Resistor 0805 (2012 Metric)  Thick Film
+K EIA0805, M2012
+$ENDCMP
+#
+$CMP RES-EIA1206
+D Chip Resistor 1206 (3216 Metric)  Thick Film
+K EIA1206, M3216
+$ENDCMP
+#
+$CMP RES-EIA1210
+D Chip Resistor 1210 (3225 Metric)  Thick Film
+K EIA1210, M3225
+$ENDCMP
+#
+$CMP RES-EIA1812
+D Chip Resistor 1812 (4532 Metric)  Thick Film
+K EIA1812, M4532
+$ENDCMP
+#
+$CMP RES-EIA2010
+D Chip Resistor 2010 (5025 Metric)  Thick Film
+K EIA2010, M5025
+$ENDCMP
+#
+$CMP RES-EIA2512
+D Chip Resistor 2512 (6332 Metric)  Thick Film
+K EIA2512, M6332
+$ENDCMP
+#
+#End Doc Library

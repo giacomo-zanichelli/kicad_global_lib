@@ -1,0 +1,129 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# PPTC-EIA0402
+#
+DEF PPTC-EIA0402 F 0 40 N N 1 F N
+F0 "F" -250 400 50 H V L CNN
+F1 "PPTC-EIA0402" 950 1300 50 H I L CNN
+F2 "" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 950 1100 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 950 1000 50 H I L CNN "Manufacturer"
+F6 "MPN" 950 900 50 H I L CNN "MPN"
+F7 "Circuit Protection" 950 800 50 H I L CNN "Category"
+F8 "PTC Resettable Fuses" 950 700 50 H I L CNN "Family"
+F9 "Ih <curr_hold>" -250 300 50 H V L CNN "Current Hold Max"
+F10 "It <curr_trip>" 400 300 50 H V L CNN "Current Trip Min"
+F11 "EIA0402" -250 200 50 H V L CNN "Package"
+DRAW
+P 2 1 1 0 -50 -100 -100 -100 N
+P 3 1 1 0 -50 -100 50 100 100 100 N
+P 3 1 1 0 100 0 125 -50 150 0 N
+P 7 1 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PPTC-EIA0603
+#
+DEF PPTC-EIA0603 F 0 40 N N 1 F N
+F0 "F" -250 400 50 H V L CNN
+F1 "PPTC-EIA0603" 950 1300 50 H I L CNN
+F2 "" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 950 1100 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 950 1000 50 H I L CNN "Manufacturer"
+F6 "MPN" 950 900 50 H I L CNN "MPN"
+F7 "Circuit Protection" 950 800 50 H I L CNN "Category"
+F8 "PTC Resettable Fuses" 950 700 50 H I L CNN "Family"
+F9 "Ih <curr_hold>" -250 300 50 H V L CNN "Current Hold Max"
+F10 "It <curr_trip>" 400 300 50 H V L CNN "Current Trip Min"
+F11 "EIA0603" -250 200 50 H V L CNN "Package"
+DRAW
+P 2 1 1 0 -50 -100 -100 -100 N
+P 3 1 1 0 -50 -100 50 100 100 100 N
+P 3 1 1 0 100 0 125 -50 150 0 N
+P 7 1 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PPTC-EIA0805
+#
+DEF PPTC-EIA0805 F 0 40 N N 1 F N
+F0 "F" -250 400 50 H V L CNN
+F1 "PPTC-EIA0805" 950 1300 50 H I L CNN
+F2 "" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 950 1100 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 950 1000 50 H I L CNN "Manufacturer"
+F6 "MPN" 950 900 50 H I L CNN "MPN"
+F7 "Circuit Protection" 950 800 50 H I L CNN "Category"
+F8 "PTC Resettable Fuses" 950 700 50 H I L CNN "Family"
+F9 "Ih <curr_hold>" -250 300 50 H V L CNN "Current Hold Max"
+F10 "It <curr_trip>" 400 300 50 H V L CNN "Current Trip Min"
+F11 "EIA0805" -250 200 50 H V L CNN "Package"
+DRAW
+P 2 1 1 0 -50 -100 -100 -100 N
+P 3 1 1 0 -50 -100 50 100 100 100 N
+P 3 1 1 0 100 0 125 -50 150 0 N
+P 7 1 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PPTC-EIA1206
+#
+DEF PPTC-EIA1206 F 0 40 N N 1 F N
+F0 "F" -250 400 50 H V L CNN
+F1 "PPTC-EIA1206" 950 1300 50 H I L CNN
+F2 "" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 950 1100 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 950 1000 50 H I L CNN "Manufacturer"
+F6 "MPN" 950 900 50 H I L CNN "MPN"
+F7 "Circuit Protection" 950 800 50 H I L CNN "Category"
+F8 "PTC Resettable Fuses" 950 700 50 H I L CNN "Family"
+F9 "Ih <curr_hold>" -250 300 50 H V L CNN "Current Hold Max"
+F10 "It <curr_trip>" 400 300 50 H V L CNN "Current Trip Min"
+F11 "EIA1206" -250 200 50 H V L CNN "Package"
+DRAW
+P 2 1 1 0 -50 -100 -100 -100 N
+P 3 1 1 0 -50 -100 50 100 100 100 N
+P 3 1 1 0 100 0 125 -50 150 0 N
+P 7 1 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PPTC-EIA1210
+#
+DEF PPTC-EIA1210 F 0 40 N N 1 F N
+F0 "F" -250 400 50 H V L CNN
+F1 "PPTC-EIA1210" 950 1300 50 H I L CNN
+F2 "" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digi-Key_PN" 950 1100 50 H I L CNN "Digi-Key_PN"
+F5 "Manufacturer" 950 1000 50 H I L CNN "Manufacturer"
+F6 "MPN" 950 900 50 H I L CNN "MPN"
+F7 "Circuit Protection" 950 800 50 H I L CNN "Category"
+F8 "PTC Resettable Fuses" 950 700 50 H I L CNN "Family"
+F9 "Ih <curr_hold>" -250 300 50 H V L CNN "Current Hold Max"
+F10 "It <curr_trip>" 400 300 50 H V L CNN "Current Trip Min"
+F11 "EIA1210" -250 200 50 H V L CNN "Package"
+DRAW
+P 2 1 1 0 -50 -100 -100 -100 N
+P 3 1 1 0 -50 -100 50 100 100 100 N
+P 3 1 1 0 100 0 125 -50 150 0 N
+P 7 1 1 0 -150 0 -125 50 -75 -50 -25 50 25 -50 75 50 100 0 N
+X 1 1 -200 0 50 R 50 50 1 1 P
+X 2 2 200 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

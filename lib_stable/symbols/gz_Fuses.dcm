@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FUSE-EIA0603
+D Fuse 0603 (1608 Metric)
+K EIA0603, M1608
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+$CMP FUSE-EIA1206
+D Fuse 1206 (3216 Metric)
+K EIA1206, M3216
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

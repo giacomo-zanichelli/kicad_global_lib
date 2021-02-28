@@ -1,0 +1,6 @@
+ERJXGN, ERJ1GN, ERJ1R
+	- Terminal > Density Level: Least (L)
+	- Drafting > Assembly > Outline Width: 0.05
+	- Drafting > Courtyard > Outline Width: 0.02
+
+Everything else standard settings.

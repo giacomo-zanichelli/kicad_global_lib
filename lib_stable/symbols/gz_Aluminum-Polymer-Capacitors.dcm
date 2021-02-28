@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WE-875075361005
+D 470µF 16V Aluminum - Polymer Capacitors Radial, Can - SMD 10mOhm 2000 Hrs @ 105°C
+K 732-6492-1-ND 875075361005
+F ${DATASHEETS}/875075361005.pdf
+$ENDCMP
+#
+#End Doc Library

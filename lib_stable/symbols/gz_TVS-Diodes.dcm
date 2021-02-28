@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TI-TPD1E10B09DPYT
+D 20V Clamp 4.5A (8/20µs) Ipp Tvs Diode Surface Mount 2-X1SON (1x.60)
+K 296-46461-1-ND TPD1E10B09DPYT
+F ${KIPRJMOD}/local_lib/gz-kicad-library/datasheets/tpd1e10b09.pdf
+$ENDCMP
+#
+#End Doc Library

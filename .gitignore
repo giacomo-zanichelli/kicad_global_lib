@@ -1,0 +1,8 @@
+digikey-kicad-library
+kicad_library
+<<<<<<< HEAD
+sym_lib_table
+fp_lib_table
+=======
+*.bck
+>>>>>>> main

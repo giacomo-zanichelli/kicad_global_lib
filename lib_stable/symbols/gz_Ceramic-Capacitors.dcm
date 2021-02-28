@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAP-EIA0201
+D Multi-Layer Ceramic Capacitor 0201 (0603 Metric)
+K EIA0201, M0603
+F https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us
+$ENDCMP
+#
+$CMP CAP-EIA0402
+D Multi-Layer Ceramic Capacitor 0402 (1005 Metric)
+K EIA0402, M1005
+F https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us
+$ENDCMP
+#
+$CMP CAP-EIA0603
+D Multi-Layer Ceramic Capacitor 1608 (1608 Metric)
+K EIA0603, M1608
+F https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us
+$ENDCMP
+#
+$CMP CAP-EIA0805
+D Multi-Layer Ceramic Capacitor 0805 (2012 Metric)
+K EIA0805, M2012
+F https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us
+$ENDCMP
+#
+$CMP CAP-EIA1206
+D Multi-Layer Ceramic Capacitor 1206 (3216 Metric)
+K EIA1206, M3216
+F https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us
+$ENDCMP
+#
+$CMP CAP-EIA1210
+D Multi-Layer Ceramic Capacitor 1210 (3225 Metric)
+K EIA1210, M3225
+F https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us
+$ENDCMP
+#
+#End Doc Library

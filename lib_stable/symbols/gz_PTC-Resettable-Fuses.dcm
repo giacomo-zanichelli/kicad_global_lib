@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PPTC-EIA0402
+D Polymeric PTC Resettable Fuse 0402 (1005 Metric)
+K EIA0402, M1005
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+$CMP PPTC-EIA0603
+D Polymeric PTC Resettable Fuse 0603 (1608 Metric)
+K EIA0603, M1608
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+$CMP PPTC-EIA0805
+D Polymeric PTC Resettable Fuse 0805 (2012 Metric)
+K EIA0805, M2012
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+$CMP PPTC-EIA1206
+D Polymeric PTC Resettable Fuse 1206 (3216 Metric)
+K EIA1206, M3216
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+$CMP PPTC-EIA1210
+D Polymeric PTC Resettable Fuse 1210 (3220 Metric)
+K EIA1210, M3220
+F https://www.littelfuse.com/~/media/electronics/product_catalogs/littelfuse_fuseology_selection_guide.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

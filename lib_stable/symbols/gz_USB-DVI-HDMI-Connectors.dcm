@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Molex-1050170001
+D USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole
+K WM1399CT-ND 1050170001
+F https://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FB-EIA0402
+D Ferrite Bead 0402 (1005 Metric)
+K EIA0402, M1005
+F https://ds.murata.co.jp/simsurfing/blm.html?lcid=en-us
+$ENDCMP
+#
+$CMP FB-EIA0603
+D Ferrite Bead 0603 (1608 Metric)
+K EIA0603, M1608
+F https://ds.murata.co.jp/simsurfing/blm.html?lcid=en-us
+$ENDCMP
+#
+$CMP FB-EIA0805
+D Ferrite Bead 0805 (2016 Metric)
+K EIA0805, M2016
+F https://ds.murata.co.jp/simsurfing/blm.html?lcid=en-us
+$ENDCMP
+#
+#End Doc Library
