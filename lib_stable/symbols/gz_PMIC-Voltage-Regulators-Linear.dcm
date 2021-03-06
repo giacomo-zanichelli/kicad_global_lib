@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP TI-TLV75533PDBVR
 D Linear Voltage Regulator IC Positive Fixed 1 Output  500mA SOT-23-5
 K 296-50411-1-ND TLV75533PDBVR
-F https://www.ti.com/lit/ds/symlink/tlv755p.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1612635446644
+F ${DATASHEETS}/TI-TLV755P.pdf
 $ENDCMP
 #
 #End Doc Library
