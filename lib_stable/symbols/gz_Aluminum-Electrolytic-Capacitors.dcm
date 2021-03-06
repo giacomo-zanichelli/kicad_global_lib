@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP WE-865080245009
+D 220µF 10V Aluminum Electrolytic Capacitors Radial, Can - SMD  2000 Hrs @ 105°C
+K 732-8492-1-ND 865080245009
+F ${DATASHEETS}/WE-865080245009.pdf
+$ENDCMP
+#
 #End Doc Library
