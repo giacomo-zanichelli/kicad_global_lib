@@ -20,4 +20,9 @@ D Power symbol creates a global label with name "GND" , ground
 K power-flag
 $ENDCMP
 #
+$CMP PSU
+D Power symbol creates a global label with name "PSU" , ground for the Power Supply
+K power-flag
+$ENDCMP
+#
 #End Doc Library
