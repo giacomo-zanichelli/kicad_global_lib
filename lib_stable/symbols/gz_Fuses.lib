@@ -8,18 +8,20 @@ F0 "F" -450 500 50 H V L CNN
 F1 "FUSE-EIA0603" 1250 1950 50 H I L CNN
 F2 "footprints_generic:FUSC154X85X58L43N" 1250 1850 50 H I L CNN
 F3 "" 1500 350 50 H I L CNN
-F4 "Digi-Key_PN" 1250 1750 50 H I L CNN "Digi-Key_PN"
-F5 "Manufacturer" 1250 1650 50 H I L CNN "Manufacturer"
-F6 "MPN" 1250 1550 50 H I L CNN "MPN"
-F7 "Circuit Protection" 1250 1450 50 H I L CNN "Category"
-F8 "Fuses" 1250 1350 50 H I L CNN "Family"
-F9 "<i_rating>" -450 400 50 H V L CNN "Hold Current"
-F10 "BC <breaking capacity>" 50 400 50 H V L CNN "Breaking Capacity"
-F11 "Voltage" 1250 1250 50 H I L CNN "Voltage"
-F12 "Energy" 1250 1150 50 H I L CNN "Energy"
-F13 "<Ceramic|Glass>" 1250 1050 50 H I L CNN "Construction"
-F14 "<Slow-Blow|Fast|Very Fast>" -450 300 50 H V L CNN "Speed"
-F15 "EIA0603" -450 200 50 H V L CNN "Package"
+F4 "Digikey" 1250 1750 50 H I L CNN "Vendor"
+F5 "Digikey PN" 1600 1750 50 H I L CNN "Vendor_PN"
+F6 "Manufacturer" 1250 1650 50 H I L CNN "Manufacturer"
+F7 "MPN" 1800 1650 50 H I L CNN "MPN"
+F8 "Circuit Protection" 1250 1550 50 H I L CNN "Category"
+F9 "Fuses" 1250 1450 50 H I L CNN "Family"
+F10 "Yes" -200 500 50 H I L CNN "Fit"
+F11 "<i_rating>" -450 400 50 H V L CNN "Hold Current"
+F12 "BC <breaking capacity>" 50 400 50 H V L CNN "Breaking Capacity"
+F13 "Voltage" 1250 1350 50 H I L CNN "Voltage"
+F14 "Energy" 1250 1250 50 H I L CNN "Energy"
+F15 "<Ceramic|Glass>" 1250 1150 50 H I L CNN "Construction"
+F16 "<Slow-Blow|Fast|Very Fast>" -450 300 50 H V L CNN "Speed"
+F17 "EIA0603" -450 200 50 H V L CNN "Package"
 DRAW
 S 50 25 -100 -25 0 1 0 N
 P 2 0 1 0 -100 0 50 0 N
@@ -35,18 +37,20 @@ F0 "F" -450 500 50 H V L CNN
 F1 "FUSE-EIA1206" 1250 1950 50 H I L CNN
 F2 "footprints_generic:FUSC320X167X87L52N" 1250 1850 50 H I L CNN
 F3 "" 1500 350 50 H I L CNN
-F4 "Digi-Key_PN" 1250 1750 50 H I L CNN "Digi-Key_PN"
-F5 "Manufacturer" 1250 1650 50 H I L CNN "Manufacturer"
-F6 "MPN" 1250 1550 50 H I L CNN "MPN"
-F7 "Circuit Protection" 1250 1450 50 H I L CNN "Category"
-F8 "Fuses" 1250 1350 50 H I L CNN "Family"
-F9 "<i_rating>" -450 400 50 H V L CNN "Hold Current"
-F10 "BC <breaking capacity>" 50 400 50 H V L CNN "Breaking Capacity"
-F11 "Voltage" 1250 1250 50 H I L CNN "Voltage"
-F12 "Energy" 1250 1150 50 H I L CNN "Energy"
-F13 "<Ceramic|Glass>" 1250 1050 50 H I L CNN "Construction"
-F14 "<Slow-Blow|Fast|Very Fast>" -450 300 50 H V L CNN "Speed"
-F15 "EIA1206" -450 200 50 H V L CNN "Package"
+F4 "Digikey" 1250 1750 50 H I L CNN "Vendor"
+F5 "Digikey PN" 1600 1750 50 H I L CNN "Vendor_PN"
+F6 "Manufacturer" 1250 1650 50 H I L CNN "Manufacturer"
+F7 "MPN" 1800 1650 50 H I L CNN "MPN"
+F8 "Circuit Protection" 1250 1550 50 H I L CNN "Category"
+F9 "Fuses" 1250 1450 50 H I L CNN "Family"
+F10 "Yes" -200 500 50 H I L CNN "Fit"
+F11 "<i_rating>" -450 400 50 H V L CNN "Hold Current"
+F12 "BC <breaking capacity>" 50 400 50 H V L CNN "Breaking Capacity"
+F13 "Voltage" 1250 1350 50 H I L CNN "Voltage"
+F14 "Energy" 1250 1250 50 H I L CNN "Energy"
+F15 "<Ceramic|Glass>" 1250 1150 50 H I L CNN "Construction"
+F16 "<Slow-Blow|Fast|Very Fast>" -450 300 50 H V L CNN "Speed"
+F17 "EIA1206" -450 200 50 H V L CNN "Package"
 DRAW
 S 50 25 -100 -25 0 1 0 N
 P 2 0 1 0 -100 0 50 0 N

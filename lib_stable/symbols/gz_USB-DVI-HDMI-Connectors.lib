@@ -8,11 +8,13 @@ F0 "J" -150 550 50 H V L CNN
 F1 "Molex-1050170001" 500 950 50 H I L CNN
 F2 "footprints:Molex-1050170001" 500 850 50 H I L CNN
 F3 "" 200 300 50 H I L CNN
-F4 "WM1399CT-ND" 500 750 50 H I L CNN "Digi-Key_PN"
-F5 "Molex" -400 -250 50 V V L CNN "Manufacturer"
-F6 "1050170001" -300 -250 50 V V L CNN "MPN"
-F7 "Connectors, Interconnects" 500 650 50 H I L CNN "Category"
-F8 "USB, DVI, HDMI Connectors" 500 550 50 H I L CNN "Family"
+F4 "Digikey" 0 0 50 H I L CNN "Vendor"
+F5 "WM1399CT-ND" 500 750 50 H I L CNN "Vendor_PN"
+F6 "Molex" -400 -250 50 V V L CNN "Manufacturer"
+F7 "1050170001" -300 -250 50 V V L CNN "MPN"
+F8 "Connectors, Interconnects" 500 650 50 H I L CNN "Category"
+F9 "USB, DVI, HDMI Connectors" 500 550 50 H I L CNN "Family"
+F10 "Yes" 0 0 50 H I L CNN "Fit"
 DRAW
 S 35 -170 75 -230 1 1 0 F
 S 35 -130 75 -70 1 1 0 F

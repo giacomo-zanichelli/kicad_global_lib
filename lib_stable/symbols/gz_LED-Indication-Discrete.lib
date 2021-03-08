@@ -8,11 +8,13 @@ F0 "LED" -300 550 50 H V L CNN
 F1 "LiteOn-LTST-C155KGJRKT" 550 1250 50 H I L CNN
 F2 "footprints:LiteOn-LTST-C155_LEDCAV4P138_270X320X110L50X90N" 550 1150 50 H I L CNN
 F3 "" -900 700 50 H I L CNN
-F4 "160-1409-1-ND" 550 1050 50 H I L CNN "Digi-Key_PN"
-F5 "Lite-On Inc." -300 450 50 H V L CNN "Manufacturer"
-F6 "LTST-C155KGJRKT" -300 350 50 H V L CNN "MPN"
-F7 "Optoelectronics" 550 950 50 H I L CNN "Category"
-F8 "LED Indication - Discrete" 550 850 50 H I L CNN "Family"
+F4 "Digikey" 550 1050 50 H I L CNN "Vendor"
+F5 "160-1409-1-ND" 950 1050 50 H I L CNN "Vendor_PN"
+F6 "Lite-On Inc." -300 450 50 H V L CNN "Manufacturer"
+F7 "LTST-C155KGJRKT" -300 350 50 H V L CNN "MPN"
+F8 "Optoelectronics" 550 950 50 H I L CNN "Category"
+F9 "LED Indication - Discrete" 550 850 50 H I L CNN "Family"
+F10 "Yes" 0 550 50 H I L CNN "Fit"
 DRAW
 T 0 -50 100 50 0 1 0 GR Normal 0 C C
 T 0 -50 100 50 0 2 0 RE Normal 0 C C

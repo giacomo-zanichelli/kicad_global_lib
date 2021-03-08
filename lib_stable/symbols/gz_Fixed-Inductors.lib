@@ -8,19 +8,21 @@ F0 "L" -350 450 50 H V L CNN
 F1 "IND-EIA0201" 450 1800 50 H I L CNN
 F2 "footprints_generic:INDC60X30X42L15L" 450 1700 50 H I L CNN
 F3 "" -3300 4450 50 H I L CNN
-F4 "Digi-Key_PN" 450 1600 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
-F6 "MPN" 450 1400 50 H I L CNN "MPN"
-F7 "Inductors, Coils, Chokes" 450 1300 50 H I L CNN "Category"
-F8 "Fixed Inductors" 450 1200 50 H I L CNN "Family"
-F9 "<inductance>" -350 350 50 H V L CNN "Inductance"
-F10 "±<tolerance>" 250 350 50 H V L CNN "Tolerance"
-F11 "Q <quality_factor_min>" 450 1100 50 H I L CNN "Quality Factor"
-F12 "DCR <dc_res_max>" 450 1000 50 H I L CNN "DCR"
-F13 "SRF <self_res_freq_min>" 450 900 50 H I L CNN "SRF"
-F14 "Imax <rated_current_max>mA" 450 800 50 H I L CNN "Current"
-F15 "<ML|FILM|WW>" 450 700 50 H I L CNN "Type"
-F16 "EIA0201" -350 250 50 H V L CNN "Package"
+F4 "Digikey" 450 1600 50 H I L CNN "Vendor"
+F5 "Digikey PN" 800 1600 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
+F7 "MPN" 1250 1500 50 H I L CNN "MPN"
+F8 "Inductors, Coils, Chokes" 450 1400 50 H I L CNN "Category"
+F9 "Fixed Inductors" 450 1300 50 H I L CNN "Family"
+F10 "Yes" -150 450 50 H I L CNN "Fit"
+F11 "<inductance>" -350 350 50 H V L CNN "Inductance"
+F12 "±<tolerance>" 250 350 50 H V L CNN "Tolerance"
+F13 "Q <quality_factor_min>" 450 1200 50 H I L CNN "Quality Factor"
+F14 "DCR <dc_res_max>" 450 1100 50 H I L CNN "DCR"
+F15 "SRF <self_res_freq_min>" 450 1000 50 H I L CNN "SRF"
+F16 "Imax <rated_current_max>mA" 450 900 50 H I L CNN "Current"
+F17 "<ML|FILM|WW>" 450 800 50 H I L CNN "Type"
+F18 "EIA0201" -350 250 50 H V L CNN "Package"
 DRAW
 A -25 0 25 1 1799 0 1 0 N 0 0 -50 0
 A 25 0 25 1 1799 0 1 0 N 50 0 0 0
@@ -34,23 +36,25 @@ ENDDEF
 # IND-EIA0402
 #
 DEF IND-EIA0402 L 0 40 N N 1 F N
-F0 "L" -300 350 50 H V L CNN
+F0 "L" -350 450 50 H V L CNN
 F1 "IND-EIA0402" 450 1800 50 H I L CNN
 F2 "footprints_generic:INDC100X50X55L25N" 450 1700 50 H I L CNN
 F3 "" -3300 4450 50 H I L CNN
-F4 "Digi-Key_PN" 450 1600 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
-F6 "MPN" 450 1400 50 H I L CNN "MPN"
-F7 "Inductors, Coils, Chokes" 450 1300 50 H I L CNN "Category"
-F8 "Fixed Inductors" 450 1200 50 H I L CNN "Family"
-F9 "<inductance>" -300 250 50 H V L CNN "Inductance"
-F10 "±<tolerance>" 300 250 50 H V L CNN "Tolerance"
-F11 "Q <quality_factor_min>" 450 1100 50 H I L CNN "Quality Factor"
-F12 "DCR <dc_res_max>" 450 1000 50 H I L CNN "DCR"
-F13 "SRF <self_res_freq_min>" 450 900 50 H I L CNN "SRF"
-F14 "Imax <rated_current_max>mA" 450 800 50 H I L CNN "Current"
-F15 "<ML|FILM|WW>" 450 700 50 H I L CNN "Type"
-F16 "EIA0402" -300 150 50 H V L CNN "Package"
+F4 "Digikey" 450 1600 50 H I L CNN "Vendor"
+F5 "Digikey PN" 800 1600 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
+F7 "MPN" 1250 1500 50 H I L CNN "MPN"
+F8 "Inductors, Coils, Chokes" 450 1400 50 H I L CNN "Category"
+F9 "Fixed Inductors" 450 1300 50 H I L CNN "Family"
+F10 "Yes" -150 450 50 H I L CNN "Fit"
+F11 "<inductance>" -350 350 50 H V L CNN "Inductance"
+F12 "±<tolerance>" 250 350 50 H V L CNN "Tolerance"
+F13 "Q <quality_factor_min>" 450 1200 50 H I L CNN "Quality Factor"
+F14 "DCR <dc_res_max>" 450 1100 50 H I L CNN "DCR"
+F15 "SRF <self_res_freq_min>" 450 1000 50 H I L CNN "SRF"
+F16 "Imax <rated_current_max>mA" 450 900 50 H I L CNN "Current"
+F17 "<ML|FILM|WW>" 450 800 50 H I L CNN "Type"
+F18 "EIA0402" -350 250 50 H V L CNN "Package"
 DRAW
 A -25 0 25 1 1799 0 1 0 N 0 0 -50 0
 A 25 0 25 1 1799 0 1 0 N 50 0 0 0
@@ -64,23 +68,25 @@ ENDDEF
 # IND-EIA0603
 #
 DEF IND-EIA0603 L 0 40 N N 1 F N
-F0 "L" -400 400 50 H V L CNN
+F0 "L" -350 450 50 H V L CNN
 F1 "IND-EIA0603" 450 1800 50 H I L CNN
 F2 "footprints_generic:INDC160X80X95L40N" 450 1700 50 H I L CNN
 F3 "" 150 1950 50 H I L CNN
-F4 "Digi-Key_PN" 450 1600 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
-F6 "MPN" 450 1400 50 H I L CNN "MPN"
-F7 "Inductors, Coils, Chokes" 450 1300 50 H I L CNN "Category"
-F8 "Fixed Inductors" 450 1200 50 H I L CNN "Family"
-F9 "<inductance>" -400 300 50 H V L CNN "Inductance"
-F10 "±<tolerance>" 200 300 50 H V L CNN "Tolerance"
-F11 "Q <quality_factor_min>" 450 1100 50 H I L CNN "Quality Factor"
-F12 "DCR <dc_res_max>" 450 1000 50 H I L CNN "DCR"
-F13 "SRF <self_res_freq_min>" 450 900 50 H I L CNN "SRF"
-F14 "Imax <rated_current_max>mA" 450 800 50 H I L CNN "Current"
-F15 "<ML|FILM|WW>" 450 700 50 H I L CNN "Type"
-F16 "EIA0603" -400 200 50 H V L CNN "Package"
+F4 "Digikey" 450 1600 50 H I L CNN "Vendor"
+F5 "Digikey PN" 800 1600 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
+F7 "MPN" 1250 1500 50 H I L CNN "MPN"
+F8 "Inductors, Coils, Chokes" 450 1400 50 H I L CNN "Category"
+F9 "Fixed Inductors" 450 1300 50 H I L CNN "Family"
+F10 "Yes" -150 450 50 H I L CNN "Fit"
+F11 "<inductance>" -350 350 50 H V L CNN "Inductance"
+F12 "±<tolerance>" 250 350 50 H V L CNN "Tolerance"
+F13 "Q <quality_factor_min>" 450 1200 50 H I L CNN "Quality Factor"
+F14 "DCR <dc_res_max>" 450 1100 50 H I L CNN "DCR"
+F15 "SRF <self_res_freq_min>" 450 1000 50 H I L CNN "SRF"
+F16 "Imax <rated_current_max>mA" 450 900 50 H I L CNN "Current"
+F17 "<ML|FILM|WW>" 450 800 50 H I L CNN "Type"
+F18 "EIA0603" -350 250 50 H V L CNN "Package"
 DRAW
 A -25 0 25 1 1799 0 1 0 N 0 0 -50 0
 A 25 0 25 1 1799 0 1 0 N 50 0 0 0
@@ -98,19 +104,21 @@ F0 "L" -350 450 50 H V L CNN
 F1 "IND-EIA0805" 450 1800 50 H I L CNN
 F2 "footprints_generic:INDC200X125X145L50N" 450 1700 50 H I L CNN
 F3 "" -3300 4450 50 H I L CNN
-F4 "Digi-Key_PN" 450 1600 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
-F6 "MPN" 450 1400 50 H I L CNN "MPN"
-F7 "Inductors, Coils, Chokes" 450 1300 50 H I L CNN "Category"
-F8 "Fixed Inductors" 450 1200 50 H I L CNN "Family"
-F9 "<inductance>" -350 350 50 H V L CNN "Inductance"
-F10 "±<tolerance>" 250 350 50 H V L CNN "Tolerance"
-F11 "Q <quality_factor_min>" 450 1100 50 H I L CNN "Quality Factor"
-F12 "DCR <dc_res_max>" 450 1000 50 H I L CNN "DCR"
-F13 "SRF <self_res_freq_min>" 450 900 50 H I L CNN "SRF"
-F14 "Imax <rated_current_max>mA" 450 800 50 H I L CNN "Current"
-F15 "<ML|FILM|WW>" 450 700 50 H I L CNN "Type"
-F16 "EIA0805" -350 250 50 H V L CNN "Package"
+F4 "Digikey" 450 1600 50 H I L CNN "Vendor"
+F5 "Digikey PN" 800 1600 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 450 1500 50 H I L CNN "Manufacturer"
+F7 "MPN" 1250 1500 50 H I L CNN "MPN"
+F8 "Inductors, Coils, Chokes" 450 1400 50 H I L CNN "Category"
+F9 "Fixed Inductors" 450 1300 50 H I L CNN "Family"
+F10 "Yes" -150 450 50 H I L CNN "Fit"
+F11 "<inductance>" -350 350 50 H V L CNN "Inductance"
+F12 "±<tolerance>" 250 350 50 H V L CNN "Tolerance"
+F13 "Q <quality_factor_min>" 450 1200 50 H I L CNN "Quality Factor"
+F14 "DCR <dc_res_max>" 450 1100 50 H I L CNN "DCR"
+F15 "SRF <self_res_freq_min>" 450 1000 50 H I L CNN "SRF"
+F16 "Imax <rated_current_max>mA" 450 900 50 H I L CNN "Current"
+F17 "<ML|FILM|WW>" 450 800 50 H I L CNN "Type"
+F18 "EIA0805" -350 250 50 H V L CNN "Package"
 DRAW
 A -25 0 25 1 1799 0 1 0 N 0 0 -50 0
 A 25 0 25 1 1799 0 1 0 N 50 0 0 0

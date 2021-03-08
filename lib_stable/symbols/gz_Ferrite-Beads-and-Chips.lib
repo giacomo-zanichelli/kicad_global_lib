@@ -8,15 +8,17 @@ F0 "FB" -250 600 50 H V L CNN
 F1 "FB-EIA0402" 600 1400 50 H I L CNN
 F2 "footprints_generic:BEADC100X50X55L25N" 600 1300 50 H I L CNN
 F3 "" -3300 4450 50 H I L CNN
-F4 "Digi-Key_PN" 600 1200 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 600 1100 50 H I L CNN "Manufacturer"
-F6 "MPN" 600 1000 50 H I L CNN "MPN"
-F7 "Filters" 600 900 50 H I L CNN "Category"
-F8 "Ferrite Beads and Chips" 600 800 50 H I L CNN "Family"
-F9 "<imp> @ <freq>" -250 500 50 H V L CNN "Impedance"
-F10 "Current" -250 400 50 H V L CNN "Current"
-F11 "DCR" 100 400 50 H V L CNN "DCR"
-F12 "EIA0402" -250 300 50 H V L CNN "Package"
+F4 "Digikey" 600 1200 50 H I L CNN "Vendor"
+F5 "Digikey PN" 950 1200 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 600 1100 50 H I L CNN "Manufacturer"
+F7 "MPN" 1400 1100 50 H I L CNN "MPN"
+F8 "Filters" 600 1000 50 H I L CNN "Category"
+F9 "Ferrite Beads and Chips" 600 900 50 H I L CNN "Family"
+F10 "Yes" 0 600 50 H I L CNN "Fit"
+F11 "<imp> @ <freq>" -250 500 50 H V L CNN "Impedance"
+F12 "Current" -250 400 50 H V L CNN "Current"
+F13 "DCR" 100 400 50 H V L CNN "DCR"
+F14 "EIA0402" -250 300 50 H V L CNN "Package"
 DRAW
 C -100 0 0 0 1 0 N
 S 100 25 -50 -25 0 0 0 N
@@ -33,15 +35,17 @@ F0 "FB" -250 600 50 H V L CNN
 F1 "FB-EIA0603" 600 1400 50 H I L CNN
 F2 "footprints_generic:BEADC160X80X95L40N" 600 1300 50 H I L CNN
 F3 "" -3300 4450 50 H I L CNN
-F4 "Digi-Key_PN" 600 1200 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 600 1100 50 H I L CNN "Manufacturer"
-F6 "MPN" 600 1000 50 H I L CNN "MPN"
-F7 "Filters" 600 900 50 H I L CNN "Category"
-F8 "Ferrite Beads and Chips" 600 800 50 H I L CNN "Family"
-F9 "<imp> @ <freq>" -250 500 50 H V L CNN "Impedance"
-F10 "Current" -250 400 50 H V L CNN "Current"
-F11 "DCR" 100 400 50 H V L CNN "DCR"
-F12 "EIA0603" -250 300 50 H V L CNN "Package"
+F4 "Digikey" 600 1200 50 H I L CNN "Vendor"
+F5 "Digikey PN" 950 1200 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 600 1100 50 H I L CNN "Manufacturer"
+F7 "MPN" 1400 1100 50 H I L CNN "MPN"
+F8 "Filters" 600 1000 50 H I L CNN "Category"
+F9 "Ferrite Beads and Chips" 600 900 50 H I L CNN "Family"
+F10 "Yes" 0 600 50 H I L CNN "Fit"
+F11 "<imp> @ <freq>" -250 500 50 H V L CNN "Impedance"
+F12 "Current" -250 400 50 H V L CNN "Current"
+F13 "DCR" 100 400 50 H V L CNN "DCR"
+F14 "EIA0603" -250 300 50 H V L CNN "Package"
 DRAW
 C -100 0 0 0 1 0 N
 S 100 25 -50 -25 0 0 0 N
@@ -58,15 +62,17 @@ F0 "FB" -250 600 50 H V L CNN
 F1 "FB-EIA0805" 600 1400 50 H I L CNN
 F2 "footprints_generic:BEADC200X160X120L50N" 600 1300 50 H I L CNN
 F3 "" -3300 4450 50 H I L CNN
-F4 "Digi-Key_PN" 600 1200 50 H I L CNN "Digi-Key_PN"
-F5 "Murata Electronics" 600 1100 50 H I L CNN "Manufacturer"
-F6 "MPN" 600 1000 50 H I L CNN "MPN"
-F7 "Filters" 600 900 50 H I L CNN "Category"
-F8 "Ferrite Beads and Chips" 600 800 50 H I L CNN "Family"
-F9 "<imp> @ <freq>" -250 500 50 H V L CNN "Impedance"
-F10 "Current" -250 400 50 H V L CNN "Current"
-F11 "DCR" 100 400 50 H V L CNN "DCR"
-F12 "EIA0805" -250 300 50 H V L CNN "Package"
+F4 "Digikey" 600 1200 50 H I L CNN "Vendor"
+F5 "Digikey PN" 950 1200 50 H I L CNN "Vendor_PN"
+F6 "Murata Electronics" 600 1100 50 H I L CNN "Manufacturer"
+F7 "MPN" 1400 1100 50 H I L CNN "MPN"
+F8 "Filters" 600 1000 50 H I L CNN "Category"
+F9 "Ferrite Beads and Chips" 600 900 50 H I L CNN "Family"
+F10 "Yes" 0 600 50 H I L CNN "Fit"
+F11 "<imp> @ <freq>" -250 500 50 H V L CNN "Impedance"
+F12 "Current" -250 400 50 H V L CNN "Current"
+F13 "DCR" 100 400 50 H V L CNN "DCR"
+F14 "EIA0805" -250 300 50 H V L CNN "Package"
 DRAW
 C -100 0 0 0 1 0 N
 S 100 25 -50 -25 0 0 0 N

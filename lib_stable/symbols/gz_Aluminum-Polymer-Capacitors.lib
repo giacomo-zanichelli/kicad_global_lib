@@ -8,16 +8,18 @@ F0 "C" 200 400 50 H V L CNN
 F1 "WE-875075361005" 900 1600 50 H I L CNN
 F2 "footprints_generic:WE-875075xx10xx_CAPAE1030X1240D1100L285X90N" 900 1500 50 H I L CNN
 F3 "" 900 1300 50 H I L CNN
-F4 "732-6492-1-ND" 900 1400 50 H I L CNN "Digi-Key_PN"
-F5 "Würth Elektronik" 900 1300 50 H I L CNN "Manufacturer"
-F6 "875075361005" 900 1200 50 H I L CNN "MPN"
-F7 "Capacitors" 900 1100 50 H I L CNN "Category"
-F8 "Aluminum - Polymer Capacitors" 900 1000 50 H I L CNN "Family"
-F9 "470uF" 200 300 50 H V L CNN "Capacitance"
-F10 "±20%" 450 300 50 H V L CNN "Tolerance"
-F11 "16V" 200 200 50 H V L CNN "Voltage"
-F12 "ESR 100m" 400 200 50 H V L CNN "ESR"
-F13 "V-Chip SMT D10.0 x L12.4" 200 100 50 H V L CNN "Package"
+F4 "Digikey" 900 1400 50 H I L CNN "Vendor"
+F5 "732-6492-1-ND" 1250 1400 50 H I L CNN "Vendor_PN"
+F6 "Würth Elektronik" 900 1300 50 H I L CNN "Manufacturer"
+F7 "875075361005" 1650 1300 50 H I L CNN "MPN"
+F8 "Capacitors" 900 1200 50 H I L CNN "Category"
+F9 "Aluminum - Polymer Capacitors" 900 1100 50 H I L CNN "Family"
+F10 "Yes" 450 400 50 H I L CNN "Fit"
+F11 "470uF" 200 300 50 H V L CNN "Capacitance"
+F12 "±20%" 450 300 50 H V L CNN "Tolerance"
+F13 "16V" 200 200 50 H V L CNN "Voltage"
+F14 "ESR 100m" 400 200 50 H V L CNN "ESR"
+F15 "V-Chip SMT D10.0 x L12.4" 200 100 50 H V L CNN "Package"
 DRAW
 S -100 35 100 20 0 1 0 N
 S 100 -35 -100 -20 0 1 0 F
