@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Test-Point-SMT
+D SMT Test Point
+K test-point
+$ENDCMP
+#
+$CMP Test-Point-THT
+D THT Test Point
+K test-point
+$ENDCMP
+#
+#End Doc Library
