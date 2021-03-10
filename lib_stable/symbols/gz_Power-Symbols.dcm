@@ -10,6 +10,16 @@ D Power symbol creates a global label with name "+3V3"
 K power-flag
 $ENDCMP
 #
+$CMP 3V3A
+D Power symbol creates a global label with name "+3V3A"
+K power-flag
+$ENDCMP
+#
+$CMP 3V3D
+D Power symbol creates a global label with name "+3V3D"
+K power-flag
+$ENDCMP
+#
 $CMP 5V
 D Power symbol creates a global label with name "+3V3"
 K power-flag
