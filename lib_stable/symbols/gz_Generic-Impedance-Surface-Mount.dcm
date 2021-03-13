@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z-EIA0201
+D Chip 0201 (0603 Metric)
+K EIA0201, M0603
+F Datasheet
+$ENDCMP
+#
+$CMP Z-EIA0402
+D Chip 0402 (1005 Metric)
+K EIA0402, M1005
+$ENDCMP
+#
+$CMP Z-EIA0603
+D Chip 0603 (1608 Metric)
+K EIA0603, M1608
+$ENDCMP
+#
+#End Doc Library

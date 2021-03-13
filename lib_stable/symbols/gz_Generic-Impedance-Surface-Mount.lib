@@ -1,0 +1,76 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Z-EIA0201
+#
+DEF Z-EIA0201 Z 0 40 N N 1 F N
+F0 "Z" -300 350 50 H V L CNN
+F1 "Z-EIA0201" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC60X30X26L15L" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digikey" 800 800 50 H I L CNN "Vendor"
+F5 "Digikey PN" 1150 800 50 H I L CNN "Vendor_PN"
+F6 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F7 "MPN" 1400 700 50 H I L CNN "MPN"
+F8 "TBD" -3300 4750 50 H I L CNN "Category"
+F9 "TBD" -3300 4850 50 H I L CNN "Family"
+F10 "Yes" -50 350 50 H I L CNN "Fit"
+F11 "Value" -300 250 50 H V L CNN "Nominal"
+F12 "± <tolerance>" -50 250 50 H V L CNN "Tolerance"
+F13 "EIA0201" -300 150 50 H V L CNN "Package"
+DRAW
+S -75 25 75 -25 0 1 0 N
+X 1 1 -150 0 75 R 50 50 1 1 P
+X 2 2 150 0 75 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Z-EIA0402
+#
+DEF Z-EIA0402 Z 0 40 N N 1 F N
+F0 "Z" -300 350 50 H V L CNN
+F1 "Z-EIA0402" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC100X50X40L25NN" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digikey" 800 800 50 H I L CNN "Vendor"
+F5 "Digikey PN" 1150 800 50 H I L CNN "Vendor_PN"
+F6 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F7 "MPN" 1400 700 50 H I L CNN "MPN"
+F8 "TBD" -3300 4750 50 H I L CNN "Category"
+F9 "TBD" -3300 4850 50 H I L CNN "Family"
+F10 "Yes" -50 350 50 H I L CNN "Fit"
+F11 "Value" -300 250 50 H V L CNN "Nominal"
+F12 "± <tolerance>" -50 250 50 H V L CNN "Tolerance"
+F13 "EIA0402" -300 150 50 H V L CNN "Package"
+DRAW
+S -75 25 75 -25 1 1 0 N
+X 1 1 -150 0 75 R 50 50 1 1 P
+X 2 2 150 0 75 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Z-EIA0603
+#
+DEF Z-EIA0603 Z 0 40 N N 1 F N
+F0 "Z" -300 350 50 H V L CNN
+F1 "Z-EIA0603" 800 900 50 H I L CNN
+F2 "footprints_generic:RESC160X85X55L30N" -3300 4350 50 H I L CNN
+F3 "" -3300 4450 50 H I L CNN
+F4 "Digikey" 800 800 50 H I L CNN "Vendor"
+F5 "Digikey PN" 1150 800 50 H I L CNN "Vendor_PN"
+F6 "Manufacturer" 800 700 50 H I L CNN "Manufacturer"
+F7 "MPN" 1400 700 50 H I L CNN "MPN"
+F8 "TBD" -3300 4750 50 H I L CNN "Category"
+F9 "TBD" -3300 4850 50 H I L CNN "Family"
+F10 "Yes" -50 350 50 H I L CNN "Fit"
+F11 "Value" -300 250 50 H V L CNN "Nominal"
+F12 "± <tolerance>" -50 250 50 H V L CNN "Tolerance"
+F13 "EIA0603" -300 150 50 H V L CNN "Package"
+DRAW
+S -75 25 75 -25 1 1 0 N
+X 1 1 -150 0 75 R 50 50 1 1 P
+X 2 2 150 0 75 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
