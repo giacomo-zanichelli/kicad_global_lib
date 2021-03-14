@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WE-61300111121
+D Connector Header Through Hole 1 position 0.100" (2.54mm)
+K 732-5314-ND 61300111121
+F ${DATASHEETS}/WE-6130xx11121.pdf
+$ENDCMP
+#
+$CMP WE-61300211121
+D Connector Header Through Hole 2 position 0.100" (2.54mm)
+K 732-5315-ND 61300211121
+F ${DATASHEETS}/WE-6130xx11121.pdf
+$ENDCMP
+#
+$CMP WE-61300311121
+D Connector Header Through Hole 3 position 0.100" (2.54mm)
+K 732-5316-ND 61300311121
+F ${DATASHEETS}/WE-6130xx11121.pdf
+$ENDCMP
+#
+$CMP WE-61300411121
+D Connector Header Through Hole 4 position 0.100" (2.54mm)
+K 732-5317-ND 61300411121
+F ${DATASHEETS}/WE-6130xx11121.pdf
+$ENDCMP
+#
+$CMP WE-61300511121
+D Connector Header Through Hole 5 position 0.100" (2.54mm)
+K 732-5318-ND 61300511121
+F ${DATASHEETS}/WE-6130xx11121.pdf
+$ENDCMP
+#
+$CMP WE-61300611121
+D Connector Header Through Hole 6 position 0.100" (2.54mm)
+K 732-5319-ND 61300611121
+F ${DATASHEETS}/WE-6130xx11121.pdf
+$ENDCMP
+#
+#End Doc Library
