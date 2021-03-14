@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON-Semi_MUN5211DW1T1G
+D Pre-Biased Bipolar Transistor (BJT) 2 NPN - Pre-Biased (Dual) 50V 100mA  250mW Surface Mount SC-88/SC70-6/SOT-363
+K MUN5211DW1T1GOSCT-ND MUN5211DW1T1G
+F ${DATASHEETS}/ON-Semi_MUN5211DW1T1G.pdf
+$ENDCMP
+#
+#End Doc Library
