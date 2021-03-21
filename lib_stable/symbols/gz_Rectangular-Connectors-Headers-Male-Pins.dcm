@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Samtec-FTSH-105-01-F-DV-K-TR
+D Connector Header Surface Mount 10 position 0.050" (1.27mm)
+K SAM13160CT-ND FTSH-105-01-F-DV-K-TR
+F ${DATASHEETS}/Samtec_FTSH-SMT.pdf
+$ENDCMP
+#
 $CMP WE-61300111121
 D Connector Header Through Hole 1 position 0.100" (2.54mm)
 K 732-5314-ND 61300111121
