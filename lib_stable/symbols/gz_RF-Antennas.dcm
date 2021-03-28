@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WE-7488930245
+D 2.4GHz Bluetooth, GSM, WLAN Chip RF Antenna 2.4GHz ~ 2.5GHz 0.5dBi Solder Surface Mount
+K EIA1206, M3216
+F ${DATASHEETS}/WE-7488930245.pdf
+$ENDCMP
+#
+#End Doc Library
