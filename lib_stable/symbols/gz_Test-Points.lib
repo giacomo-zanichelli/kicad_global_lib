@@ -3,7 +3,7 @@ EESchema-LIBRARY Version 2.4
 #
 # Test-Point-SMT
 #
-DEF Test-Point-SMT TP 0 0 N N 1 F P
+DEF Test-Point-SMT TP 0 0 N N 1 F N
 F0 "TP" 0 150 50 H V C CNN
 F1 "Test-Point-SMT" 300 350 50 H I L CNN
 F2 "footprints_generic:TestPoint-SMT_C100" 300 250 50 H I L CNN
@@ -16,7 +16,7 @@ ENDDEF
 #
 # Test-Point-THT
 #
-DEF Test-Point-THT TP 0 0 N N 1 F P
+DEF Test-Point-THT TP 0 0 N N 1 F N
 F0 "TP" 0 150 50 H V C CNN
 F1 "Test-Point-THT" 400 350 50 H I L CNN
 F2 "footprints_generic:TestPoint-THT_C150H100" 400 450 50 H I L CNN
